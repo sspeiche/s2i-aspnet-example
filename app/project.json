@@ -36,7 +36,7 @@
       "type": "build"
     },
     "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": {
-      "version": "1.0.0",
+      "version": "1.0.0-*",
       "type": "build"
     }
   },
